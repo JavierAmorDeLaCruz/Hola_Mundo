@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		77672E9F1D86C9920068CFA6 /* mundo-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 77672E9E1D86C9920068CFA6 /* mundo-wallpaper.jpg */; };
 		776809501D81744C005046F8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7768094F1D81744C005046F8 /* AppDelegate.swift */; };
 		776809521D81744C005046F8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776809511D81744C005046F8 /* ViewController.swift */; };
 		776809551D81744C005046F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 776809531D81744C005046F8 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		77672E9E1D86C9920068CFA6 /* mundo-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "mundo-wallpaper.jpg"; sourceTree = "<group>"; };
 		7768094C1D81744C005046F8 /* Hola Mundo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hola Mundo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7768094F1D81744C005046F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		776809511D81744C005046F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				7768094F1D81744C005046F8 /* AppDelegate.swift */,
+				77672E9E1D86C9920068CFA6 /* mundo-wallpaper.jpg */,
 				776809511D81744C005046F8 /* ViewController.swift */,
 				776809531D81744C005046F8 /* Main.storyboard */,
 				776809561D81744C005046F8 /* Assets.xcassets */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77672E9F1D86C9920068CFA6 /* mundo-wallpaper.jpg in Resources */,
 				7768095A1D81744C005046F8 /* LaunchScreen.storyboard in Resources */,
 				776809571D81744C005046F8 /* Assets.xcassets in Resources */,
 				776809551D81744C005046F8 /* Main.storyboard in Resources */,
@@ -299,6 +303,7 @@
 				776809601D81744C005046F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
